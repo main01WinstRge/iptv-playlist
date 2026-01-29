@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="Live",A&E US Eastern Feed
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="Live",ABC (KABC) Los Angeles
